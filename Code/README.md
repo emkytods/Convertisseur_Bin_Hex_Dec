@@ -9,9 +9,9 @@
 Modifier le programme :
 ------------------
 
-- Installer Python ici : https://www.python.org/downloads/windows/
+- Installer [Python](https://www.python.org/downloads/windows/)
 
-- Installer un IDE, je conseille EduPython : https://edupython.tuxfamily.org/
+- Installer un IDE, je conseille [EduPython](https://edupython.tuxfamily.org/)
 
 
 Lancement de l'application :
