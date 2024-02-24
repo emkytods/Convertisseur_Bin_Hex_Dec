@@ -48,9 +48,9 @@ def center_window(window):
     window.update_idletasks()
     width = window.winfo_width()
     height = window.winfo_height()
-    x = (window.winfo_screenwidth() // 2) - (width // 2)
-    y = (window.winfo_screenheight() // 2) - (height // 2)
-    window.geometry('{}x{}+{}+{}'.format(width, height, x, y))
+    x = (window.winfo_screenwidth() - width) // 2
+    y = (window.winfo_screenheight() - height) // 2
+    window.geometry(f'+{x}+{y}')
 
 calculator_window_reference = None
 history_window_reference = None
@@ -75,7 +75,7 @@ def show_calculator():
     calculator_x = root_x - calculator_window.winfo_reqwidth() + 50
     calculator_y = root_y + (root_height - calculator_window.winfo_reqheight()) // 2 + 30
 
-    calculator_window.geometry(f"+{calculator_x}+{calculator_y}")
+    calculator_window.geometry(f'+{calculator_x}+{calculator_y}')
 
     calculator_window.bind("<F11>", lambda event: "break")
     calculator_window.attributes('-toolwindow', True)
