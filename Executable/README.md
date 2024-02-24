@@ -11,4 +11,4 @@ Lancement de l'application :
 ------------------
 Cliquez sur le fichier nommé "Convertisseur.exe"
 
-<small> <small> © 22/02/2024 - Tous droits réservés
+<small> <small> © 22-24/02/2024 - Tous droits réservés

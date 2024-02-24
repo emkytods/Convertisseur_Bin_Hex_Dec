@@ -25,4 +25,4 @@ Pour le 2, attention à bien être dans le bon chemin du fichier (utilisez la co
 Si vous ne savez pas faire, il y a des tutos sur Internet).
 
 
-<small> <small> © 22/02/2024 - Tous droits réservés
+<small> <small> © 22-24/02/2024 - Tous droits réservés
