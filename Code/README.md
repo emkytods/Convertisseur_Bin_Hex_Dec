@@ -23,6 +23,3 @@ Lancement de l'application :
 
 Pour le 2, attention à bien être dans le bon chemin du fichier (utilisez la commande "cd" pour naviguer entre les fichiers.
 Si vous ne savez pas faire, il y a des tutos sur Internet).
-
-
-<small> <small> © 22-24/02/2024 - Tous droits réservés
