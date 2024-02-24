@@ -19,7 +19,7 @@ Lancement de l'application :
 1. Soit vous êtes sur un IDE comme EduPython qui dispose d'un bouton d'éxecution intégré et dans ce cas vous cliquez dessus.
 2. Soit vous tapez cette commande dans un terminal de commande (tapez "cmd" dans la barre de recherche Windows) : 
         
-        python .\main.py
+        python .\Convertisseur.py
 
 Pour le 2, attention à bien être dans le bon chemin du fichier (utilisez la commande "cd" pour naviguer entre les fichiers.
 Si vous ne savez pas faire, il y a des tutos sur Internet).
